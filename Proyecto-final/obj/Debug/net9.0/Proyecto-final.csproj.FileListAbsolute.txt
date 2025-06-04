@@ -1,0 +1,14 @@
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\bin\Debug\net9.0\Proyecto-final.exe
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\bin\Debug\net9.0\Proyecto-final.deps.json
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\bin\Debug\net9.0\Proyecto-final.runtimeconfig.json
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\bin\Debug\net9.0\Proyecto-final.dll
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\bin\Debug\net9.0\Proyecto-final.pdb
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.AssemblyInfoInputs.cache
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.AssemblyInfo.cs
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.csproj.CoreCompileInputs.cache
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.dll
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\refint\Proyecto-final.dll
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.pdb
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\Proyecto-final.genruntimeconfig.cache
+C:\Estudio_universidad\Logica-programacion\Proyecto-final\obj\Debug\net9.0\ref\Proyecto-final.dll
