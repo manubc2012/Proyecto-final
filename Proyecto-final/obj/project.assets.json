@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudio_universidad\\Logica-programacion\\Proyecto-final\\Proyecto-final.csproj",
+      "projectUniqueName": "C:\\Estudio_universidad\\Logica-programacion\\proyectof\\Proyecto-final\\Proyecto-final\\Proyecto-final.csproj",
       "projectName": "Proyecto-final",
-      "projectPath": "C:\\Estudio_universidad\\Logica-programacion\\Proyecto-final\\Proyecto-final.csproj",
+      "projectPath": "C:\\Estudio_universidad\\Logica-programacion\\proyectof\\Proyecto-final\\Proyecto-final\\Proyecto-final.csproj",
       "packagesPath": "C:\\Users\\manuela.barrera_amar\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudio_universidad\\Logica-programacion\\Proyecto-final\\obj\\",
+      "outputPath": "C:\\Estudio_universidad\\Logica-programacion\\proyectof\\Proyecto-final\\Proyecto-final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manuela.barrera_amar\\AppData\\Roaming\\NuGet\\NuGet.Config"
